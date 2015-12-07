@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Used in contact edit menus -->
+	<string-array name="menu_task_operation">
+	    <item>Force Stop</item>
+	    <item>Quick Kill</item>
+		<item>Go to App</item>
+		
+	</string-array>
+
+</resources>
